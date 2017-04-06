@@ -1,5 +1,5 @@
 {
-    "name": "dompdf/dompdf",
+    "name": "platiniumgroup/dompdf",
     "type": "library",
     "description": "DOMPDF is a CSS 2.1 compliant HTML to PDF converter",
     "homepage": "https://github.com/dompdf/dompdf",
@@ -16,8 +16,5 @@
     ],
     "autoload": {
         "classmap": ["include/"]
-    },
-    "require": {
-        "phenx/php-font-lib": "0.2.*"
     }
 }
